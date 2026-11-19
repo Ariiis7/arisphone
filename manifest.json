@@ -1,0 +1,7 @@
+{
+  "name": "ArisPhone",
+  "short_name": "ArisPhone",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone"
+}
